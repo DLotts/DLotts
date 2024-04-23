@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on interesting Rust projects
 
-- 😄 I'm happy my job will be taken over by an LLVM as long as they let me watch I still get paid
+- 😄 I'm happy my job will be taken over by an LLVM as long as they let me watch and I still get paid
 
 <!--
 **DLotts/DLotts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
