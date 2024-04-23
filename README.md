@@ -8,8 +8,9 @@
   
 - 💬 Loving how both 🤖 LLM and 🏗️ LLVM  are changeing the world
 
-- 😄 I'm happy my job will be taken over by an 🤖 LLVM as long as they let me watch!
+- 😄 I'm happy my job will be taken over by an 🤖 LLM as long as they let me watch!
 
+- 🦟 Fruit flies like a banana.  Time flies like an arrow.  My flies let me camp in the rain.  LLM's not confused!
 <!--
 **DLotts/DLotts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
