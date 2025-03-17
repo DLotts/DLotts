@@ -8,7 +8,7 @@
   
 - 💬 Loving how both 🤖 LLM and 🏗️ LLVM  are changeing the world
 
-- 😄 I'm happy my job will be taken over by an 🤖 LLM as long as they let me watch!
+- 😄 My job will be taken over by an 🤖 LLM -- I'm ready!
 
 - 🦟 Time flies like an arrow.  Fruit flies like a banana.  Rain flies keep me dry.  LLM's not confused!
 <!--
