@@ -1,8 +1,10 @@
-- 🛠️ Check out my new 🔢 [Sudoku solver/generator/toolkit](https://github.com/DLotts/sudoku) in Rust-lang and [Tauri](https://tauri.app/)
+- 🛠️ I am now available for new work! 💪  Contact me! ✉️
+
+- 🔢🔢🔢 Check out my newish 🔢 [Sudoku solver/generator/toolkit](https://github.com/DLotts/sudoku) in Rust-lang 🦀 and [Tauri](https://tauri.app/)
 
 - ⚡ I build fun things in the [Rust 🦀 programming language](https://www.rust-lang.org)
 
-- ✨ I make serious things in Java ☕
+- ✨ I make serious things in Java ☕ and Python 🐍
 
 - 👯 I’m looking to collaborate on interesting Rust projects
   
